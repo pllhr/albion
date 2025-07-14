@@ -1,0 +1,1 @@
+ALTER TABLE units ADD COLUMN is_divider BOOLEAN NOT NULL DEFAULT false;
